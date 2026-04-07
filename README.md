@@ -2,7 +2,7 @@
 
 This repository contains the hardware design, schematic details, and embedded C/C++ firmware for an Arduino Nano-based Maximum Power Point Tracking (MPPT) Solar Charge Controller. It was developed as a project for the EEE-316 Power Electronics Laboratory.
 
-## 📖 Background and Motivation
+## Background and Motivation
 A solar panel's output changes continuously with irradiance, temperature, and load. Connecting a 100 W solar panel directly to a 12 V battery can result in over 57% of the available power being wasted. This project implements an MPPT charge controller to continuously adjust the operating point of the panel, ensuring the maximum possible power is extracted at every instant. 
 
 ## ✨ Key Features
